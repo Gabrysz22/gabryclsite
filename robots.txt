@@ -1,0 +1,5 @@
+# Libera o site inteiro para o Google e outros buscadores.
+User-agent: *
+Allow: /
+
+Sitemap: https://gabry22.netlify.app/sitemap.xml
